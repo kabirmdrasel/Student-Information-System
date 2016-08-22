@@ -1,0 +1,18 @@
+#022330   sweet blue green mix
+#0084B4   blue
+#9AE4E8   dimblue
+#C0DEED  more dimblue
+#088253   sweet green
+#D02B55  sweet pink
+#352726   black khoyeri
+#709397   deep ash
+#990000   dim red
+#EBEBEB   deep white
+#1A1B1F   sweet black
+#642D8B   sweet purple
+#FF6699    dim pink
+#B40B43   deep pink
+#BADFCD  dipdip green
+#FF0000    pure red
+#93A644    leaf green
+#CC3366    pink
