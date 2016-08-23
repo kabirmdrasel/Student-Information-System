@@ -1,3 +1,6 @@
+<?php
+echo  "just for show";
+?>
 <html>
 <head>
 <title>PHP Project</title>
