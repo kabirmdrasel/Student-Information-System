@@ -1,4 +1,6 @@
 <?php
+
+echo "just for show"
 error_reporting(E_ALL^E_NOTICE);
 error_reporting(E_STRICT);
 
